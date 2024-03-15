@@ -36,9 +36,3 @@ This application is built using a range of programming languages, frameworks, li
 - Flutter (for cross-platform app development)
 - Google Colab (for running Jupyter notebooks in the cloud)
 - Visual Studio Code (IDE)
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1. **Clone the repo**
