@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445879210780",
+    "project_id": "alralr",
+    "storage_bucket": "alralr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445879210780:android:cb7778facc78dbe828e0d9",
+        "android_client_info": {
+          "package_name": "com.example.lip_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkZzeIvPRcdF9KwDowoDGeilnkYe3yUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445879210780:android:af5c9f0807b4618b28e0d9",
+        "android_client_info": {
+          "package_name": "com.example.lip_reader_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkZzeIvPRcdF9KwDowoDGeilnkYe3yUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
