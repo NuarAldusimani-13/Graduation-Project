@@ -1,15 +1,15 @@
-#Lip Movement Reader Application
+## Lip Movement Reader Application
 
 About The Project
 
 This project aims to create an innovative application for recognizing and interpreting lip movements, with potential applications in speech recognition, sign language interpretation, and enhanced communication tools. Developed as our graduation project, this application leverages machine learning and computer vision technologies to accurately translate lip movements into text or commands.
 
-#Built With
+## Built With
 
 Programming Languages:  Python
 
 
-#Frameworks/Libraries: 
+## Frameworks/Libraries: 
 TensorFlow
 Keras
 OpenCV (cv2)
@@ -24,7 +24,7 @@ Mediapipe
 av
 ffmpeg-python
 
-#Tools:
+## Tools:
 Figma 
 PyCharm 
 Android Studio
