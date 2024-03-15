@@ -6,10 +6,10 @@ This project aims to create an innovative application for recognizing and interp
 
 ## Built With
 
-Programming Languages:  Python
+# Programming Languages:  Python
 
 
-## Frameworks/Libraries: 
+# Frameworks/Libraries: 
 TensorFlow
 Keras
 OpenCV (cv2)
@@ -24,7 +24,7 @@ Mediapipe
 av
 ffmpeg-python
 
-## Tools:
+# Tools:
 Figma 
 PyCharm 
 Android Studio
