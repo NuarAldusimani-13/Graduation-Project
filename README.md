@@ -1,6 +1,6 @@
 # lip_reader
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
