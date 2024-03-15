@@ -6,7 +6,8 @@ This project aims to create an innovative application for recognizing and interp
 
 ## Built With
 
-# Programming Languages:  Python
+# Programming Languages: 
+Python
 
 
 # Frameworks/Libraries: 
