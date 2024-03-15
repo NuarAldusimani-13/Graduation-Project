@@ -4,6 +4,6 @@ This project aims to provide a comprehensive solution for Arabic lip reading, le
 
 ## Features
 
-- **Lip Reading**: Converts Arabic speech from lip movements into text in, enhancing communication accessibility.
+- **Lip Reading**: Converts Arabic speech from lip movements into text , enhancing communication accessibility.
 - **Language Support**: Specifically designed for the Arabic language, catering to its unique phonetic and linguistic characteristics.
 - **User-Friendly Interface**: Easy-to-navigate interface, making it accessible for users of all ages.
